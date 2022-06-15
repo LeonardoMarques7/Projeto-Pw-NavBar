@@ -4,13 +4,8 @@ body {
 }
 
 .cor-fundo {
-  background: rgb(234, 247, 213);
-  background: linear-gradient(
-    43deg,
-    rgb(255, 207, 207) 0%,
-    rgb(231, 186, 168) 54%,
-    rgb(197, 153, 153) 100%
-  );
+  background: rgb(255,204,204);
+background: radial-gradient(circle, rgba(255,204,204,1) 0%, rgba(237,193,176,1) 35%, rgba(233,183,164,1) 48%, rgba(255,160,160,1) 100%);
 }
 
 .icon-bar {
